@@ -78,13 +78,13 @@ body {
     justify-content: end;
     align-items: center;
     gap: 15px;
-    padding-left: 30px;
+    padding-left: 15px;
 }
 .icono i {
     color: #828485;
 }
 button {
-    margin: 40px 70px;
+    margin: 40px 60px;
     padding: 15px 40px;
     background-color: #A491D2;
     color: #fff;
